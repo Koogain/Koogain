@@ -4,7 +4,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 간단한 자기 소개🩷 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요, 저의 이름은 구가인입니다! 😘</li>저는 서원대 컴퓨터공학을 전공하고 있습니다. 잘부탁드립니다!😻</li> </div> 
-    <img src="!![image](https://github.com/user-attachments/assets/f1ef5afc-f1a0-42f0-8664-afc1e0cb813d)" width="2000" height="4000"/>
+    <img src="![image](https://github.com/user-attachments/assets/f1ef5afc-f1a0-42f0-8664-afc1e0cb813d)" width="2000" height="4000"/>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
