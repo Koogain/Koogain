@@ -5,6 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 간단한 자기 소개🩷 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요, 저의 이름은 구가인입니다! 😘</li>저는 서원대 컴퓨터공학을 전공하고 있습니다. 잘부탁드립니다!😻</li> </div> 
     ![Image](https://github.com/user-attachments/assets/b405d08a-0c18-437e-935b-65106604c20c)
+    <img src="[/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG](https://github.com/user-attachments/assets/b405d08a-0c18-437e-935b-65106604c20c)"  width="700" height="370">
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
