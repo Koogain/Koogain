@@ -4,6 +4,8 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 간단한 자기 소개🩷 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요, 저의 이름은 구가인입니다! 😘</li>저는 서원대 컴퓨터공학을 전공하고 있습니다. 잘부탁드립니다!😻</li> </div> 
+    <img src="https://github.com/user-attachments/assets/-" width="200" height="400"/>
+출처: https://devdharu.tistory.com/entry/GitHub-README에-이미지-올리는-방법 [개발자 D의 하루:티스토리]
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -28,7 +30,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 마무리 인사🩷 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이상으로 저의 소개를 마치겠습니다😘</li>잘부탁드립니다!😻</li> </div>
     </div>
-    ![Image](https://github.com/user-attachments/assets/c278f2bb-63d1-4266-b1b3-306cc3996050)
+    <img src="https://github.com/user-attachments/assets/-" width="200" height="400"/>
+출처: https://devdharu.tistory.com/entry/GitHub-README에-이미지-올리는-방법 [개발자 D의 하루:티스토리]
     
 <!--
 **Koogain/Koogain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
