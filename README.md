@@ -24,6 +24,11 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koogain&layout=compact&bg_color=60,ffebed,ffa3b6&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+        <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 마무리 인사🩷 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이상으로 저의 소개를 마치겠습니다😘</li>잘부탁드립니다!😻</li> </div>
+    </div>
+    ![Image](https://github.com/user-attachments/assets/c278f2bb-63d1-4266-b1b3-306cc3996050)
     
 <!--
 **Koogain/Koogain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
