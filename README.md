@@ -10,7 +10,6 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=social&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=social&logo=C%2B%2B&logoColor=white">
           </div>
     </div>
     <div align= "center">
